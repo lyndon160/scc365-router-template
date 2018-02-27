@@ -13,8 +13,8 @@ import org.slf4j.LoggerFactory;
 import org.apache.commons.net.util.SubnetUtils;
 
 /**
-* A class for managing the route table of the OpenFlow routers for SCC365 Practical 4.
-* @author Jamie Bird
+* A class for managing the route table of the OpenFlow routers for SCC365 router excercise.
+* @author Jamie Bird and Lyndon Fawcett
 * @version 2.0
 */
 public class RouteTable{

@@ -18,9 +18,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
-* A class to manage the sotrage of the per router data required for SCC365 Practical 4.
+* A class to manage the storage of the per router data required for SCC365 Practical 4.
 * Contains routers IP addresses, MAC address, ARP table and routing table. 
-* @author Jamie Bird
+* @author Jamie Bird and Lyndon Fawcett
 * @version 2.0
 */
 public class RouterData{
